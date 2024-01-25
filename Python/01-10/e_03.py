@@ -1,4 +1,4 @@
-# Escribe una serie de instrucciones en python que permita declarar dos variables "x "e "y" asignando los valores 3 y 8.32, 
+# Escribe una serie de instrucciones en python que permita declarar dos variables "x" e "y" asignando los valores 3 y 8.32, 
 # luego convertir el tipo de estas variables a una cadena de caracteres. 
 # Al final, el programa debe mostrar el tipo de estas variables antes y después de la conversión
 
