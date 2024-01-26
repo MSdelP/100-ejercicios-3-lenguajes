@@ -1,20 +1,12 @@
-// Lista original
-let L = [43, 22, 7, "Pepe", 2, "as", "Julián", 8];
+// Genera un número aleatorio entre 25 y 50 (ambos inclusive)
+let numeroAleatorio = Math.floor(Math.random() * (50 - 25 + 1)) + 25;
 
-// Función de comparación aleatoria
-function comparacionAleatoria() {
-    return Math.random() - 0.5;
-}
-
-// Mezcla los elementos de la lista de manera aleatoria
-L.sort(comparacionAleatoria);
-
-// Imprime la lista mezclada
-console.log("Lista mezclada:", L);
+// Imprime el número generado
+console.log("Número aleatorio entre 25 y 50:", numeroAleatorio);
 
 
-
-// Puedes lograr la mezcla aleatoria de una lista en JavaScript utilizando la función sort junto con una función de comparación aleatoria.
-// La función comparacionAleatoria devuelve un número aleatorio entre -0.5 y 0.5, 
-// lo que hace que la función de ordenamiento sort ordene la lista de manera aleatoria. 
-// Al ejecutar este código, obtendrás diferentes mezclas de la lista cada vez.
+// En JavaScript, puedes usar la función Math.random() para generar un número decimal aleatorio entre 0 y 1, y luego ajustar ese número al rango deseado.
+// En este ejemplo, Math.random() genera un número decimal aleatorio entre 0 (inclusive) y 1 (exclusivo).
+// Luego, multiplicamos ese número por la diferencia entre los límites superior e inferior del rango deseado,
+// le sumamos el límite inferior y aplicamos Math.floor() para redondear hacia abajo y obtener un número entero.
+// Esto asegura que obtendrás un número en el rango de 25 a 50 (ambos inclusive).
