@@ -1,7 +1,7 @@
-# Escribe un programa en python que muestre la tabla de multiplicar de 8:
+# Escribe un programa en python que muestre la tabla de multiplicar de 7:
 
-# Imprimir la tabla de multiplicar del 8
-numero = 8
+# Imprimir la tabla de multiplicar del 7
+numero = 7
 
 print(f"Tabla de multiplicar del {numero}:")
 
