@@ -11,4 +11,4 @@ print("Número aleatorio entre 25 y 50:", numero_aleatorio)
 
 
 # Puedes utilizar la función randint del módulo random para generar un número entero aleatorio dentro de un rango específico en Python.
-# Cada vez que ejecutes este programa, obtendrás un número aleatorio dentro del rango especificado.
+# Cada vez que ejecutes este programa, obtendrás un número aleatorio dentro del rango especificado. 
