@@ -1,13 +1,18 @@
-# Escribe en python una función maximo(L) que tome una lista de enteros como parámetro y devuelva el mayor valor. La idea es usar la función max.
+# Escribe en python una función maximo(L) que tome una lista de enteros como parámetro y devuelva el mayor valor. La idea es no usar la función icorporada max.
 
 
 def maximo(L):
     if not L:
         # Manejar el caso de una lista vacía
         return None
-    else:
-        # Utilizar la función max para obtener el valor máximo de la lista
-        return max(L)
+    
+    max_valor = L[0]  # Inicializar con el primer elemento de la lista
+
+    for num in L:
+        if num > max_valor:
+            max_valor = num
+
+    return max_valor
 
 # Ejemplo de uso
 lista_numeros = [10, 5, 8, 15, 3]
@@ -15,5 +20,7 @@ resultado = maximo(lista_numeros)
 print(resultado)
 
 
-# En este caso, la función maximo simplemente devuelve el resultado de aplicar la función max a la lista L.
-# Si la lista está vacía, la función devuelve None. Puedes probar la función con diferentes listas de enteros para encontrar el valor máximo.
+# En esta implementación, se itera sobre la lista y se compara cada elemento con el valor máximo actual. 
+# Si se encuentra un elemento mayor, se actualiza el valor máximo. 
+# Esta función también maneja el caso de una lista vacía y devuelve None. 
+# Puedes probar la función con diferentes listas de enteros para encontrar el valor máximo.o.
