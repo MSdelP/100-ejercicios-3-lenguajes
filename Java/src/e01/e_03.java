@@ -27,3 +27,35 @@ public class e_03 {
     }
 
 }
+
+// Este método, obtenerTipo, tiene los modificadores private y static por
+// razones específicas relacionadas con su diseño y uso en el contexto de
+// programación.
+
+// Private:
+// La palabra clave private indica que el método solo es accesible dentro de la
+// misma clase en la que está definido. No puede ser accedido directamente desde
+// fuera de la clase, ya sea desde otras clases del mismo paquete o clases
+// externas.
+// La encapsulación mediante el modificador private ayuda a controlar el acceso
+// a los detalles internos de la implementación de la clase y promueve una mejor
+// modularidad y mantenimiento del código. Otros componentes del programa no
+// pueden acceder directamente a este método, limitando el alcance y evitando
+// posibles problemas de manipulación no autorizada.
+
+// Static:
+// La palabra clave static indica que el método pertenece a la clase en lugar de
+// a una instancia específica de la clase. Esto significa que el método se puede
+// llamar sin crear una instancia del objeto.
+// En este caso, como el método opera solo en la clase de obtenerTipo, no
+// necesita acceder a ninguna instancia específica de la clase para realizar su
+// tarea. La información que requiere está contenida en el parámetro variable,
+// que es de tipo Object.
+// Hacer el método static permite llamarlo directamente desde la clase sin
+// necesidad de instanciar un objeto de esa clase. Por ejemplo, puedes llamar al
+// método así: NombreDeLaClase.obtenerTipo(algunaVariable).
+// En resumen, el modificador private garantiza que el método solo sea accesible
+// dentro de la misma clase, mientras que static permite su invocación sin crear
+// instancias de la clase. Estos modificadores se utilizan para controlar el
+// acceso y proporcionar una interfaz clara y específica para el uso del método
+// dentro del contexto de la clase en la que está definido.
