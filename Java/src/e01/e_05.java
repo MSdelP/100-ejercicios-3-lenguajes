@@ -1,3 +1,7 @@
+// Crear una serie de instrucciones en Java que permita crear una variable "var" y asignarle el valor "Hola". 
+// El programa debe verificar si "var" es un entero o una cadena de caracteres. 
+// Si es entero, el programa debe mostrar en consola "Entero", si no lo es debe mostrar "Cadena de caracteres".
+
 public class e_05 {
     public static void main(String[] args) {
         // Crear la variable y asignarle el valor "Hola"

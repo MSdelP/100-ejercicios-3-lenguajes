@@ -1,3 +1,7 @@
+// Escribir un progrograma en Java que solicite al usuario su edad y la almacena en una variable. 
+// El programa debe verificar si el usuario tiene una edad mayor o menor a 18 años. 
+// Si la edad del usuario es igual o mayor que 18 el programa imprime "Eres mayor de edad", de lo contrario debe imprimir "Eres menor de edad".
+
 import java.util.Scanner;
 
 public class e_07 {

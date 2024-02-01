@@ -1,3 +1,5 @@
+// Escribe en Java un programa que pregunte al usuario su peso en kg y muestre el resultado por consola.
+
 import java.util.Scanner;
 
 public class e_04 {

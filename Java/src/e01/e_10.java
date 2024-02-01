@@ -1,3 +1,6 @@
+// Escribir una instrucción que permite crear una lista de números del 1 al 10 utilizando una comprensión de lista en python. 
+// (Se trata de imitar ese comportamiento en Java)
+
 import java.util.ArrayList;
 import java.util.List;
 
