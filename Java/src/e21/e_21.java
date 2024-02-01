@@ -1,3 +1,5 @@
+// Escribir una instrucción en que permita crear una lista de números pares del 1 al 10 con una comprensión de lista en python.
+
 package e21;
 
 import java.util.HashMap;
