@@ -1,5 +1,5 @@
-// Escribir las instrucciones en Java que permiten crear la lista L asignándole los valores [6, 8, 3, 4, 1, 12, 2, 9, 2], 
-// y luego ordenar los números de la lista en orden creciente. El programa de mostrar la lista L después de haber ordenado los números.
+// Escribe un programa en Java que permita truncar un número decimal a 2 cigras despuçes de la coma.
+// Por ejemplo, podemos usar el número decimal 342.9478274632
 
 package e21;
 

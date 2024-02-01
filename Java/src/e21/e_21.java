@@ -1,4 +1,5 @@
-// Escribir una instrucción en que permita crear una lista de números pares del 1 al 10 con una comprensión de lista en python.
+// Escribe en Java un programa que permita sumar los valores del siguiente diccionario:
+// {"Manzana":15, "Banana":8, "Pera":12, "Sandía":9, "Albaricoque":3
 
 package e21;
 
