@@ -1,3 +1,6 @@
+// Escribre un programa en Java que permita ordenar una lista de tuplas L en orden ascendente, basándose en el sengundo elemento de la tupla
+// L=[("Piña", 4), ("Granada", 2), ("Sandía", 7), ("Pera", 14), ("Aguacate", 8)]
+
 package e11;
 
 import java.util.ArrayList;

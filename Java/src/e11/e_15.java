@@ -1,3 +1,6 @@
+// Escribir en Java un programa que cree la lista L asignçandole el valor [1,2,3,4,5,6,7,8,9,10], 
+// luego crear una nueva lista L1 que recuperar un elemento de cada tres en la lista L. 
+
 package e11;
 
 import java.util.ArrayList;

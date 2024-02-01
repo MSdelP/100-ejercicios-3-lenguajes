@@ -1,3 +1,7 @@
+// Escribe un programa en Java que dadas dos listas L1 y L2, devuelva una lista llamada L3 que contenga los elementos en comun:
+// L1[7,,10,4,32,5.9,3,"a","hello","x"]
+// L2[4,9,2,65,4.3,56,"x",]
+
 package e11;
 
 import java.util.ArrayList;

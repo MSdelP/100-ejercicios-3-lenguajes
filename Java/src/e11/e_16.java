@@ -1,3 +1,6 @@
+// Escribe las instrucciones en Java que permitan ordenar una cadena de caracteres en orden alfabético ascendente. 
+// Para probar, vamos a tomar la cadena c = "finlandia".
+
 package e11;
 
 import java.util.Arrays;

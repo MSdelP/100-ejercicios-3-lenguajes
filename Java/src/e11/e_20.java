@@ -1,3 +1,5 @@
+// Escribe un programa en pyhton que muestre en consola el valor de las claves 'Manzana' y 'Banana' del diccionario {'Manzana':3,  'Banana':2, 'Kiwi':1}
+
 package e11;
 
 import java.util.HashMap;

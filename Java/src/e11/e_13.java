@@ -1,3 +1,6 @@
+// Escribir en Java las instrucciones que permiten crear la lista L asignándole los valores [3, 2, 2, 1, 8, 1, 4, 7, 5, 1], 
+// a continuación el programa debe calcular el número de apariciones del número 1 en la lista L.
+
 package e11;
 
 public class e_13 {
