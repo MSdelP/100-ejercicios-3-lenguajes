@@ -1,4 +1,4 @@
-// Escriber una secuencia de instrucciones en Java que permita declarar 3 variables a, b, c asignando respectivamente los valores 1, Francia, 32.6, 
+// Escribe una secuencia de instrucciones en Java que permita declarar 3 variables a, b, c asignando respectivamente los valores 1, Francia, 32.6, 
 // muestra las variables por consola
 
 public class e_01 {
