@@ -1,3 +1,7 @@
+// Escribe un función en Java llamada añadirElementoDic(clave,valor,d) que toma tres parámentros de entrada: un diccionario d,
+// una clave y su valor asociado.
+// La función debe permitir agregar esta clave y su valor al diccionario d. Por último, la función debe devolver el diccionario d que contiene la nueva clave.
+
 package e41;
 
 import java.util.HashMap;

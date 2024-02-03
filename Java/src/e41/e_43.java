@@ -1,3 +1,6 @@
+// Escribe en Java una función maximo(L) que tome una lista de enteros como parámetro y devuelva el mayor valor.
+// La idea es no usar la función icorporada max.
+
 package e41;
 
 import java.util.Collections;

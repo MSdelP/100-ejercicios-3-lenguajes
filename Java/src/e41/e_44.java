@@ -1,3 +1,7 @@
+// Escribe en python el código de la función sumaSublista (L,i,j) que toma tres paárametros de una lista L,
+// un índice de inicio de cálculo y un índice de fin de cálculoj. 
+// La función debe devolver la suma de los números que se encuentran entre los índices de i y j de la lista.
+
 package e41;
 
 import java.util.List;

@@ -1,3 +1,11 @@
+// Escribe en python un programa que muestre el siguiente esquema piramidal
+
+// *
+// **
+// ****
+// ******
+// ********
+
 package e41;
 
 public class e_45 {

@@ -1,3 +1,5 @@
+// Transforma el código anterior y haz que sea una pirámide completa.
+
 package e41;
 
 public class e_46 {

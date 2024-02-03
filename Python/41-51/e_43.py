@@ -1,4 +1,5 @@
-# Escribe en python una función maximo(L) que tome una lista de enteros como parámetro y devuelva el mayor valor. La idea es no usar la función icorporada max.
+# Escribe en python una función maximo(L) que tome una lista de enteros como parámetro y devuelva el mayor valor. 
+# La idea es no usar la función icorporada max.
 
 
 def maximo(L):
