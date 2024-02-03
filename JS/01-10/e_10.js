@@ -1,3 +1,7 @@
+// Escribir una instrucción que permite crear una lista de números del 1 al 10 utilizando una comprensión de lista en JS. 
+// (Se trata de imitar ese comportamiento en Java)
+
+
 let numeros = Array.from({length: 10}, (_, index) => index + 1);
 
 

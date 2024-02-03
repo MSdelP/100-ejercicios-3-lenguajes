@@ -1,3 +1,6 @@
+// Escribir un programa en JS que permita imprimir en consola sólo los números impares entre 10 y 20.
+// Nota: es necesario crear dos versiones, una con el bucle for y otra con el bucle while.
+
 // Versión con bucle for:
 
 // Bucle for para imprimir los números impares entre 10 y 20
