@@ -1,3 +1,7 @@
+// Escribe en Java una función suprimirDuplicado(L) que tome una lista de enteros L como parámetro 
+// y devuelva la lista L sin elementos duplicados en orden ascendente
+// L=[4, 2, 8, 2, 6, 4, 8, 10], ([4,7,4,3,2,9])
+
 package e41;
 
 import java.util.ArrayList;
