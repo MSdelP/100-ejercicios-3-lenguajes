@@ -1,3 +1,8 @@
+// Crear una serie de instrucciones en JS que permita crear una variable "var" y asignarle el valor "Hola". 
+// El programa debe verificar si "var" es un entero o una cadena de caracteres. 
+// Si es entero, el programa debe mostrar en consola "Entero", si no lo es debe mostrar "Cadena de caracteres".
+
+
 // Crear la variable y asignarle el valor "Hola"
 let varValue = "Hola";
 
