@@ -1,4 +1,4 @@
-// Escribe un programa en Java que permita truncar un número decimal a 2 cigras despuçes de la coma.
+// Escribe un programa en Java que permita truncar un número decimal a 2 cifras después de la coma.
 // Por ejemplo, podemos usar el número decimal 342.9478274632
 
 package e21;
