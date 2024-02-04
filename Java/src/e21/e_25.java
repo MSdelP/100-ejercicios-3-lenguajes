@@ -1,3 +1,5 @@
+// Escribe un programa en Java con un array bidimensional que haga la tabla de multiplicar hasta el 9
+
 package e21;
 
 public class e_25 {
