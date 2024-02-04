@@ -1,3 +1,5 @@
+// Escribe un programa en Java que muestre la carpeta en la que se encuentra el script actual
+
 package e21;
 
 import java.nio.file.Path;

@@ -1,3 +1,6 @@
+// Escribe un programa en Java que permita eliminar un elemento de lista dada. 
+// L = [9,8,7,6,5,4], queremos eliminar el número 7.
+
 package e21;
 
 import java.util.ArrayList;
