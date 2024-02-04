@@ -1,3 +1,7 @@
+// # Escribe un programa en python que permita formatear la cadena de caracteres "Me llamo miNombre y tengo edad años. Estoy aprendiendo el lenguaje Lenguaje".
+// El programa debe permitir formatear esta cadena asignándole el contenido de las siguientes variables:
+// miNombre = "Mario", edad = 37, Lenguaje = Python
+
 package e21;
 
 public class e_23 {

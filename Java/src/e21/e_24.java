@@ -1,3 +1,5 @@
+// Escribe un programa en Java que muestre la tabla de multiplicar de 7:
+
 package e21;
 
 public class e_24 {
