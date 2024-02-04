@@ -1,3 +1,6 @@
+// Escribe un programa en python que inicie un bucle para rellenar elementos en una lista.
+// La lista debe ser los números desde el 1 hasta el 20. Selecciona los números impares e imprime dichos números y su posición en la lista
+
 package e21;
 
 import java.util.ArrayList;

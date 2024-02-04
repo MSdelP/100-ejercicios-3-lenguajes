@@ -1,3 +1,5 @@
+// Escribe un programa en python que permita recuperar la extensión de un archivo.
+
 package e21;
 
 import java.nio.file.Path;

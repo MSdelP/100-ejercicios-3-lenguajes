@@ -1,3 +1,5 @@
+// Escribe en Java un programa que permita calcular el tiempo de ejecución de un script. Tomamos como ejemplo el programa del ejercicio 24.
+
 package e21;
 
 public class e_30 {
