@@ -1,3 +1,6 @@
+// Escribe un programa en Java que permita mezclar de manera aleatoria los elementos de una lista.
+// L = [43, 22, 7, "Pepe", 2, "as", "Julián", 8]
+
 package e31;
 
 import java.util.ArrayList;
