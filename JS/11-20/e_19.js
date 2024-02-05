@@ -1,3 +1,6 @@
+// Escribe un programa en JS que permita invertir una cadena de caracteres.
+// El programa debe invertir la variable 'ch' que contiene la frase 'Hola Mundo'.
+
 // Cadena de caracteres
 var ch = 'Hola Mundo';
 

@@ -1,3 +1,6 @@
+// Escribe un programa en JS que muestre en consola el valor de las claves 'Manzana' y 'Banana' del diccionario {'Manzana':3,  'Banana':2, 'Kiwi':1}
+
+
 // Objeto
 var frutas = {'Manzana': 3, 'Banana': 2, 'Kiwi': 1};
 
