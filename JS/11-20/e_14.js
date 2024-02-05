@@ -1,3 +1,6 @@
+// Escribir las instrucciones en JS que permiten crear una lista vacía L, 
+// después agregarle los enteros 10, 25, 42, 69, 31, 15 y las cadenas de caracteres 'jd'. 'xa', 'rtx':
+
 // Crear una lista vacía L
 var L = [];
 
