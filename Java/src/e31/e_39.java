@@ -1,3 +1,5 @@
+// Escribe en Java un programa que calcule la suma de los dígitos de un número, imprime el resultado.
+
 package e31;
 
 import java.util.Scanner;
