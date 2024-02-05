@@ -1,3 +1,6 @@
+// Escribe en Java una función f(y,x,j) tomando como parámetros 3 enteros y,x,j y devuelve el resultado de la siguiente función:
+// f(y,x,j) =  y*(j**3) + 2*y*(j**2) + x
+
 package e31;
 
 public class e_37 {

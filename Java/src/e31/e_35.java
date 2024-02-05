@@ -1,3 +1,7 @@
+// Escribe una lista en Java L = [0,3,6,9,12,15,18,21,24,27,30], 
+// a continuación crea una nueva lista L1 mediante una comprensión de lista que contenga los números de L divididos por 3. 
+// El programa debe imprimir la lista L1.
+
 package e31;
 
 import java.util.ArrayList;

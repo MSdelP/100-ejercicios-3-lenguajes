@@ -1,3 +1,6 @@
+// Crea en python un bucle que contenga los números del 10 al 20, dentro de ese bucle crea otro que repita la misma lista 10 veces.
+// Imprime el resultado.
+
 package e31;
 
 public class e_34 {

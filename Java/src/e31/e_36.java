@@ -1,3 +1,7 @@
+// Escribe en python un programa para crear la lista L = [-4.2, 2.3, 8, -2, 6.8]. 
+// A continuación crea una nueva lista L1 usando comprensión de lista con los números de L que son positivos o mayores que 0. 
+// Imprime la lista L1.
+
 package e31;
 
 import java.util.ArrayList;
