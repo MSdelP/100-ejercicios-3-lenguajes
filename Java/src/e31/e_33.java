@@ -1,3 +1,5 @@
+// Crea un bucle en Java para crear una lista con los números del 10 al 20, tiene que escribir dicha lista 10 veces.
+
 package e31;
 
 public class e_33 {
