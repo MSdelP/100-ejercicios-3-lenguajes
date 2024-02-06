@@ -1,3 +1,7 @@
+// Escribe en python una función maximo(L) que tome una lista de enteros como parámetro y devuelva el mayor valor. 
+// La idea es no usar la función icorporada max.
+
+
 function maximo(L) {
     if (L.length === 0) {
         // Manejar el caso de un array vacío

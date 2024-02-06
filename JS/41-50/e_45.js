@@ -1,3 +1,12 @@
+// Escribe en JS un programa que muestre el siguiente esquema piramidal
+
+// *
+// **
+// ****
+// ******
+// ********
+
+
 const alturaPiramide = 5;
 
 for (let i = 1; i <= alturaPiramide; i++) {
