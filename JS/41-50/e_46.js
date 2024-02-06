@@ -1,3 +1,6 @@
+// Transforma el código anterior y haz que sea una pirámide completa.
+
+
 function imprimirPiramideCompleta(alturaPiramide) {
     for (let i = 1; i <= alturaPiramide; i++) {
         // Imprimir espacios en la parte superior izquierda de la pirámide

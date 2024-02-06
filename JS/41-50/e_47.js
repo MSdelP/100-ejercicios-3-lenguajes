@@ -1,3 +1,5 @@
+//  Escribe una función en python minimo(L) que tome una lista de enteros L como parámetro y devuelva el valor más pequeño.
+
 function minimo(L) {
     if (L.length === 0) {
         // Manejar el caso de un array vacío
