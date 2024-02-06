@@ -1,4 +1,5 @@
-# Escribe un programa en python que permita invertir una cadena de caracteres. El programa debe invertir la variable 'ch' que contiene la frase 'Hola Mundo'.
+# Escribe un programa en python que permita invertir una cadena de caracteres.
+# El programa debe invertir la variable 'ch' que contiene la frase 'Hola Mundo'.
 
 # Cadena de caracteres
 ch = 'Hola Mundo'

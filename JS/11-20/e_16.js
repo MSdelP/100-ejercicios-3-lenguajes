@@ -1,3 +1,7 @@
+// Escribe las instrucciones en JS que permitan ordenar una cadena de caracteres en orden alfabético ascendente. 
+// Para probar, vamos a tomar la cadena c = "finlandia".
+
+
 // Cadena de caracteres
 var c = "finlandia";
 

@@ -1,3 +1,5 @@
+// Escribe en Java un programa para generar de manera aleatoria un número entre 25 y 50.
+
 package e31;
 
 import java.util.Random;

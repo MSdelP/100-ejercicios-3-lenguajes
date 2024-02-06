@@ -1,3 +1,6 @@
+// Escribe en Java una función llamada compruebaPresencia (x,L), que toma como parámetros una lista L y un elemento x. 
+// La función devuelve True si el elemento x existe en la lista L y False y el elemento x no existe en la lista L.
+
 package e31;
 
 import java.util.List;
