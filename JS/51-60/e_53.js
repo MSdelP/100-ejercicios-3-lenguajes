@@ -16,3 +16,6 @@ let diccionario = {
 console.log(numValoresDicc(diccionario)); // Devuelve 9 (1+2+3+4+5+6+7+8+9)
 
 
+// Utilizamos un bucle for...of para iterar sobre los valores del diccionario utilizando Object.values(d).
+// Para cada lista asociada a una clave, obtenemos su longitud utilizando lista.length y sumamos este valor al total de valores.
+// Al final, retornamos el total de valores encontrados en todas las listas asociadas a las claves del diccionario.
