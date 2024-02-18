@@ -20,3 +20,10 @@ public class e_56 {
                 "Números divisibles por " + n + " y no múltiplos de " + a + " hasta " + numUmbral + ": " + resultado);
     }
 }
+
+// Esta función recorre cada número dentro del rango desde 0 hasta numUmbral.
+// Para cada número, verifica si es divisible por n y no es múltiplo de a. Si
+// cumple ambas condiciones, se agrega el número a la lista numerosEncontrados.
+// Finalmente, se devuelve la lista de números encontrados. En el método main,
+// se llama a esta función con un ejemplo de n, a y numUmbral, y se imprime el
+// resultado.
