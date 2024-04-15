@@ -33,3 +33,10 @@ public class e_68 {
         leerFichero(rutaFichero);
     }
 }
+
+// Este código abrirá el archivo especificado en modo lectura, leerá su
+// contenido línea por línea y lo mostrará por consola.
+// Si el archivo no existe o si ocurre algún error durante la lectura, se
+// mostrará un mensaje de error.
+// Asegúrate de reemplazar "ruta/completa/del/archivo.txt" con la ruta completa
+// de tu archivo.
